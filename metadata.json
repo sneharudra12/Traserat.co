@@ -1,0 +1,6 @@
+{
+  "name": "TRASERAT CUBE",
+  "description": "Interactive 4D Tesseract Simulator by Rudra Seth with WebGL bloom, 4D hyperplane rotations, and real-time perspective projection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
